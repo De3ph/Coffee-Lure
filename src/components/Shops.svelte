@@ -13,7 +13,7 @@
                             <div class="self-end">
                                 <div class="avatar">
                                     <div class="w-7 rounded-full">
-                                        <img src="/src/assets/avatar/1.jpg" alt="avatar" />
+                                        <img src="/public/avatar/1.jpg" alt="avatar" />
                                     </div>
                                 </div>
                             </div>
@@ -23,7 +23,7 @@
                             <div>
                                 <div class="avatar">
                                     <div class="w-7 rounded-full">
-                                        <img src="/src/assets/avatar/2.jpg" alt="avatar" />
+                                        <img src="/public/avatar/2.jpg" alt="avatar" />
                                     </div>
                                 </div>
                             </div>
@@ -33,7 +33,7 @@
                             <div>
                                 <div class="avatar">
                                     <div class="w-7 rounded-full">
-                                        <img src="/src/assets/avatar/2.jpg" alt="avatar" />
+                                        <img src="/public/avatar/2.jpg" alt="avatar" />
                                     </div>
                                 </div>
                             </div>
@@ -43,7 +43,7 @@
                             <div class="self-end">
                                 <div class="avatar">
                                     <div class="w-7 rounded-full">
-                                        <img src="/src/assets/avatar/1.jpg" alt="avatar" />
+                                        <img src="/public/avatar/1.jpg" alt="avatar" />
                                     </div>
                                 </div>
                             </div>
@@ -53,7 +53,7 @@
                             <div class="self-end">
                                 <div class="avatar">
                                     <div class="w-7 rounded-full">
-                                        <img src="/src/assets/avatar/1.jpg" alt="avatar" />
+                                        <img src="/public/avatar/1.jpg" alt="avatar" />
                                     </div>
                                 </div>
                             </div>
@@ -63,7 +63,7 @@
                             <div>
                                 <div class="avatar">
                                     <div class="w-7 rounded-full">
-                                        <img src="/src/assets/avatar/2.jpg" alt="avatar" />
+                                        <img src="/public/avatar/2.jpg" alt="avatar" />
                                     </div>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@
                             <div>
                                 <div class="avatar">
                                     <div class="w-7 rounded-full">
-                                        <img src="/src/assets/avatar/2.jpg" alt="avatar" />
+                                        <img src="/public/avatar/2.jpg" alt="avatar" />
                                     </div>
                                 </div>
                             </div>
