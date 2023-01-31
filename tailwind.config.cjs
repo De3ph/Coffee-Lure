@@ -7,15 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors:{
-        brandDark:"#2E2E2E",
-        brandDarkBrown:"#4C3B1F",
-        brandBrown:"#A67C52",
-        brandCream:"#F8D6C1",
-        brandAlmond:"#F0E0D1"
+      colors: {
+        brandDark: "#2E2E2E",
+        brandDarkBrown: "#4C3B1F",
+        brandBrown: "#A67C52",
+        brandCream: "#F8D6C1",
+        brandAlmond: "#F0E0D1"
       },
-      backgroundImage:{
-        "hero":"url(/src/assets/cups.jpg)"
+      backgroundImage: {
+        hero: "url(/cups.jpg)"
       }
     }
   },
