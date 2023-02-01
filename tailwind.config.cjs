@@ -16,6 +16,9 @@ module.exports = {
       },
       backgroundImage: {
         hero: "url(/cups.jpg)"
+      },
+      fontSize: {
+        "10xl": "8.75rem"
       }
     }
   },

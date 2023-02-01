@@ -1,8 +1,8 @@
 <script lang="ts">
 </script>
 
-<main class="flex justify-center">
-    <div class="fixed m-8 w-11/12 py-5 px-10 flex justify-between font-bold z-10 bg-brandDark bg-opacity-5 rounded-full">
+<main class="hidden md:flex justify-center">
+    <div class="fixed hidden md:flex m-8 w-fit py-5 px-10 justify-between font-bold z-10 bg-brandDark bg-opacity-5 rounded-full">
         <div class="tooltip tooltip-bottom" data-tip="BEST COFFEE!">
             <a class="cursor-pointer text-3xl">Coffee Lure</a>
         </div>

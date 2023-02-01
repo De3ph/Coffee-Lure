@@ -1,14 +1,25 @@
 <script lang="ts"></script>
 
 
-<main class="min-h-screen flex flex-col-reverse gap-y-8 lg:flex-row justify-center items-center gap-x-6 px-10 mb-8">
+<main class="min-h-full 
+py-14 mb-16
+lg:py-32 lg:mb-1
+flex flex-col-reverse 
+gap-y-4 px-20
+lg:flex-row justify-center items-center gap-x-6">
 
-    <div class="mt-0 lg:mt-24 px-16">
-        <div class="mockup-phone">
-            <div class="camera"></div>
+    <div class="flex justify-center">
+        <div class="mockup-phone w-11/12">
+            <div class="camera" />
             <div class="display">
-                <div class="h-full artboard phone-4 rounded-lg py-16 bg-hero bg-center bg-cover bg-no-repeat">
-                    <div class="flex flex-col gap-y-3">
+                <div class="bg-scroll overflow-y-scroll artboard rounded-lg 
+                bg-hero bg-center bg-cover bg-no-repeat 
+                phone-1 pt-10 
+                pr-8
+                 ">
+                    <div class="flex flex-col 
+                    gap-y-3 md:gap-y-4 pb-3
+                    ">
                         <div class="chat chat-start px-3 flex flex-row">
                             <div class="self-end">
                                 <div class="avatar">
@@ -79,7 +90,31 @@
                             </div>
                             <div class="chat-bubble">See u there</div>
                         </div>
+                        <div class="chat chat-start px-3 flex flex-row">
+                            <div class="self-end">
+                                <div class="avatar">
+                                    <div class="w-7 rounded-full">
+                                        <img src="/avatar/1.jpg" alt="avatar" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="chat-bubble">Btw, all assets in this website was made by my beloved ❤️, look at her all amazing works on Behance
+                            </div>
+                        </div>
+                        <div class="chat chat-end px-3 flex flex-row-reverse">
+                            <div>
+                                <div class="avatar">
+                                    <div class="text-2xl w-7 rounded-full">
+                                        ❤️
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="chat-bubble bg-red-600">
+                                <a class="link link-hover text-red-100" href="https://www.behance.net/serapfienki?tracking_source=search_users|serap%20fi%C5%9Fenk%C3%A7i">Serap Fişenkçi </a>
+                            </div>
+                        </div>
                     </div>
+
                 </div>
             </div>
         </div>
