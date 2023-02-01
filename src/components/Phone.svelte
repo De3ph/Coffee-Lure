@@ -12,7 +12,9 @@ lg:flex-row justify-center items-center gap-x-6">
         <div class="mockup-phone w-11/12">
             <div class="camera" />
             <div class="display">
-                <div class="bg-scroll overflow-y-scroll artboard rounded-lg 
+                <div class="bg-scroll overflow-y-scroll
+                overflow-x-hidden
+                artboard rounded-lg 
                 bg-hero bg-center bg-cover bg-no-repeat 
                 phone-1 pt-10 
                 pr-8
