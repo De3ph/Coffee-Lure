@@ -20,7 +20,7 @@ lg:flex-row justify-center items-center gap-x-6">
                 pr-8
                  ">
                     <div class="flex flex-col 
-                    gap-y-3 md:gap-y-4 pb-3
+                    gap-y-3 md:gap-y-4 pb-3 -z-50
                     ">
                         <div class="chat chat-start px-3 flex flex-row">
                             <div class="self-end">
