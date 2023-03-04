@@ -1,6 +1,5 @@
 <script lang="ts"></script>
 
-
 <main class="min-h-full 
 py-14 mb-16
 lg:py-32 lg:mb-1
@@ -12,7 +11,7 @@ lg:flex-row justify-center items-center gap-x-6">
         <div class="mockup-phone w-11/12">
             <div class="camera overflow-hidden" />
             <div class="display overflow-hidden">
-                <div class=" overflow-y-scroll
+                <div class="overflow-y-scroll
                 overflow-x-hidden
                 artboard rounded-lg 
                 bg-hero bg-center bg-cover bg-no-repeat 
